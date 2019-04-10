@@ -47,3 +47,14 @@ font-size: 12px;
 line-height: 16px;
 margin: 0;
 }
+
+.leaflet-tooltip.feature-label {
+    background-color: transparent;
+    border: transparent;
+    box-shadow: none;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: 'Titillium Web', sans-serif;
+    text-shadow: 0 0 2px #FFFFFF;
+    color: rgba(35, 35, 35, 0.78)
+}
